@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name] | こんにちは 👋、[あなたの名前] です</h1>
+<h1 align="center">Hi there 👋, I'm [Solji Ju] |</h1>
 
 <p align="center">
   I'm a passionate developer who loves learning and building projects.<br>
@@ -47,7 +47,7 @@
 
 ## 🤝 Let's Connect! | つながりましょう！
 
-- ✉️ Email: [Your Email] | メール: [あなたのメールアドレス]
+- ✉️ Email: [soljiju@gmail.com] ]
 - 💼 [LinkedIn / Blog link, etc.] | [LinkedIn / ブログリンクなど]
 
 ---
