@@ -1,23 +1,28 @@
-<h1 align="center">Hi there 👋, I'm solji</h1>
+<h1 align="center">Hi there 👋, I'm [Your Name] | こんにちは 👋、[あなたの名前] です</h1>
 
 <p align="center">
-  I'm a passionate developer who loves learning and building projects.
+  I'm a passionate developer who loves learning and building projects.<br>
+  新しいことを学び、プロジェクトを作るのが大好きな開発者です。
 </p>
 
 ---
 
-## 🌱 About Me
+## 🌱 About Me | 自己紹介
 
-- 🎓 새로운 도전을 좋아합니다.
-- 💻 웹 개발을 중심으로 Java, JSP, Spring, HTML/CSS, JavaScript 등을 학습했습니다.
-- 📝 게시판 프로젝트(jboard, sboard)와 MSA 아키텍처(Docker, Kafka, Redis, MongoDB) 실습까지 진행해보았습니다.
-- 🚀 협업과 새로운 기술을 배우는 걸 즐깁니다.
+- 🎓 I love taking on new challenges.<br>
+  新しい挑戦が好きです。
+- 💻 I studied web development, including Java, JSP, Spring, HTML/CSS, and JavaScript.<br>
+  Java、JSP、Spring、HTML/CSS、JavaScriptを中心にウェブ開発を勉強しました。
+- 📝 I practiced creating a **JSP bulletin board (jboard)** and a **Spring-based bulletin board (sboard)**.<br>
+  **JSP掲示板(jboard)** や **Spring掲示板(sboard)** の開発を練習しました。
+- 🚀 Recently, I've also explored **MSA architecture** with Docker, Kafka, Redis, and MongoDB.<br>
+  最近はDocker、Kafka、Redis、MongoDBなどを使った**MSAアーキテクチャ**にも挑戦しています。
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack | 技術スタック
 
-**Languages & Tools**  
+**Languages & Tools | 使用技術・ツール**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-00599C?style=flat&logo=apachetomcat&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -29,22 +34,27 @@
 
 ---
 
-## 🌟 Current Learning
+## 🌟 Currently Learning | 学習中
 
-- 🌐 **Spring Framework**를 통해 MVC 패턴과 서버 개발 심화
-- 🪄 **MSA** 아키텍처로 서비스 분리와 확장성 학습
-- 📊 데이터베이스 설계 및 성능 최적화
+- 🌐 Deepening my understanding of the **Spring Framework** and MVC architecture<br>
+  **Spring Framework**とMVCアーキテクチャの理解を深めています
+- 🪄 Exploring **MSA architecture** for scalable services<br>
+  **MSAアーキテクチャ**によるスケーラブルなサービス構築を勉強中
+- 📊 Improving database design and optimization<br>
+  データベース設計・最適化のスキル向上に取り組んでいます
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect! | つながりましょう！
 
-- ✉️ 이메일: soljiju@gmail.com
-- 💼 
+- ✉️ Email: [Your Email] | メール: [あなたのメールアドレス]
+- 💼 [LinkedIn / Blog link, etc.] | [LinkedIn / ブログリンクなど]
 
 ---
 
 <p align="center">
-  🌟 항상 배우고, 성장하며, 더 나은 개발자로 발전하고자 합니다. <br>
-  감사합니다! 🙏
+  🌟 I love to learn, grow, and become a better developer every day.<br>
+  毎日学び、成長し、より良い開発者になることを目指しています。<br>
+  Thank you for visiting my profile! 🙏<br>
+  プロフィールを見てくれてありがとうございます！ 🙏
 </p>
