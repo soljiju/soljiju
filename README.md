@@ -48,7 +48,7 @@
 ## 🤝 Let's Connect! | つながりましょう！
 
 - ✉️ Email: [soljiju@gmail.com] ]
-- 💼 [Notion] (https://www.notion.so/2060a3a900278079b1e1ff775438f609?source=copy_link)]
+- 💼 [Notion]: [https://www.notion.so/2060a3a900278079b1e1ff775438f609?source=copy_link]
 
 ---
 
