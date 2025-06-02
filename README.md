@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Solji Ju] |</h1>
+<h1 align="center">Hi there 👋, I'm [Solji Ju]</h1>
 
 <p align="center">
   I'm a passionate developer who loves learning and building projects.<br>
@@ -48,7 +48,7 @@
 ## 🤝 Let's Connect! | つながりましょう！
 
 - ✉️ Email: [soljiju@gmail.com] ]
-- 💼 [LinkedIn / Blog link, etc.] | [LinkedIn / ブログリンクなど]
+- 💼 [Notion] (https://www.notion.so/2060a3a900278079b1e1ff775438f609?source=copy_link)]
 
 ---
 
